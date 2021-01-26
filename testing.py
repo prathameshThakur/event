@@ -8,4 +8,4 @@ if press:
         if x in ['b','i','o','i','n','f','o','r','m','a','t','i','c','s','B','I','O','I','N','F','O','R','M','A','T','I','C','S']:
             count+=1
 
-    st.success('The count of words is {}'.format(count))
+    st.success('The count of matched words is {}'.format(count))
